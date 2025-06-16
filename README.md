@@ -23,3 +23,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emanaslam099&show_icons=true&locale=en&layout=compact" alt="emanaslam099" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emanaslam099&show_icons=true&locale=en" alt="emanaslam099" /></p>
+python language 
